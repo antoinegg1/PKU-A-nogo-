@@ -1,0 +1,4 @@
+D:\code\GenShinNoGo\x64\Debug\GenShinNoGo.exe
+C:\Users\35289\Desktop\GenShinNoGo\x64\Debug\NoGo.exe
+C:\Users\35289\Desktop\NoGo1.0\x64\Debug\NoGo.exe
+D:\学习夹\大作业\NoGo1.0\x64\Debug\NoGo.exe

@@ -1,0 +1,443 @@
+﻿  源.cpp
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(1,9): warning C4068: 未知的杂注“GCC”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(306,62): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(306,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(306,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(306,62): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(307,77): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(307,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [25]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(307,34): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(307,77): message : 尝试匹配参数列表“(IMAGE *, const char [25], int, int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(308,77): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(308,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(308,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(308,77): message : 尝试匹配参数列表“(IMAGE *, const char [19], const int, const int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(309,77): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(309,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(309,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(309,77): message : 尝试匹配参数列表“(IMAGE *, const char [19], const int, const int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(310,67): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(310,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [14]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(310,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(310,67): message : 尝试匹配参数列表“(IMAGE *, const char [14], const int, const int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(311,66): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(311,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [17]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(311,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(311,66): message : 尝试匹配参数列表“(IMAGE *, const char [17], int, int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(312,76): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(312,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(312,32): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(312,76): message : 尝试匹配参数列表“(IMAGE *, const char [22], int, int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(313,53): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(313,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [13]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(313,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(313,53): message : 尝试匹配参数列表“(IMAGE *, const char [13], int, int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(314,63): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(314,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [18]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(314,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(314,63): message : 尝试匹配参数列表“(IMAGE *, const char [18], int, int, bool)”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(324,33): error C2665: “settextstyle”: 4 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(324,5): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(324,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 参见“settextstyle”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(324,33): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(443,63): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [14]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(443,15): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(476,44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(532,33): error C2665: “settextstyle”: 4 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(532,5): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(532,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 参见“settextstyle”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(532,33): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(533,42): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(533,5): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [11]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(533,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(533,42): message : 尝试匹配参数列表“(int, int, const char [11])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(554,56): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(554,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(563,60): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [24]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(563,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(568,42): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(568,5): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [11]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(568,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(568,42): message : 尝试匹配参数列表“(int, int, const char [11])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(570,39): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(570,5): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(570,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(570,39): message : 尝试匹配参数列表“(int, int, const char [9])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(572,33): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(572,5): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(572,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(572,33): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(574,34): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(574,5): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(574,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(574,34): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(580,46): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“char [10]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(580,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(615,50): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(615,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [11]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(615,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(615,50): message : 尝试匹配参数列表“(int, int, const char [11])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(620,50): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(620,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [11]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(620,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(620,50): message : 尝试匹配参数列表“(int, int, const char [11])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(626,47): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(626,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(626,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(626,47): message : 尝试匹配参数列表“(int, int, const char [9])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(631,47): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(631,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(631,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(631,47): message : 尝试匹配参数列表“(int, int, const char [9])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(637,41): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(637,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(637,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(637,41): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(642,41): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(642,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(642,33): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(642,41): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(648,42): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(648,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(648,34): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(648,42): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(653,42): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(653,13): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(653,34): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(653,42): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(658,62): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [18]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(658,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(667,76): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(667,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(668,65): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(668,31): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(672,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(672,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(673,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(673,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(674,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(674,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(675,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(675,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(676,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(676,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(677,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(677,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(678,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(678,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(687,64): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(687,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(688,65): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(688,31): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(689,74): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [13]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(689,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(704,59): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(704,25): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(704,45): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(704,59): message : 尝试匹配参数列表“(int, int, const char [9])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(709,59): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(709,25): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(709,45): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(709,59): message : 尝试匹配参数列表“(int, int, const char [9])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(715,53): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(715,25): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(715,45): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(715,53): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(720,53): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(720,25): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(720,45): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(720,53): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(727,88): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(727,39): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(733,88): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(733,39): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(734,77): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(734,43): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(738,86): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(738,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(739,86): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(739,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(740,86): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(740,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(741,86): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(741,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(742,86): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(742,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(743,86): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(743,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(744,86): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(744,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(754,76): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(754,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(758,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(758,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(759,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(759,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(760,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(760,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(761,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(761,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(762,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(762,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(763,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(763,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(764,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(764,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(765,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(765,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(766,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(766,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(767,74): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [19]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(767,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(768,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(768,39): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(769,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(769,39): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(770,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(770,39): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(771,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(771,39): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(772,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(772,39): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(786,52): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(786,21): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [7]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(786,41): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(786,52): message : 尝试匹配参数列表“(int, int, const char [7])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(794,76): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(794,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(799,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(799,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(800,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(800,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(801,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(801,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(802,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(802,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(803,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(803,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(804,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(804,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(805,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(805,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(806,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(806,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(807,76): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(807,38): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(868,70): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [18]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(868,35): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(869,78): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [13]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(869,31): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(885,58): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(885,29): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(885,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(885,58): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(890,58): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(890,29): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(890,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(890,58): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(897,63): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(897,29): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(897,49): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(897,63): message : 尝试匹配参数列表“(int, int, const char [9])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(902,63): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(902,29): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(902,49): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(902,63): message : 尝试匹配参数列表“(int, int, const char [9])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(909,57): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(909,29): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(909,49): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(909,57): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(914,57): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(914,29): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(914,49): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 参见“outtextxy”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(914,57): message : 尝试匹配参数列表“(int, int, const char [5])”时
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(921,92): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [15]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(921,43): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\playsoundapi.h(114,1): message : 参见“PlaySoundW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(926,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(926,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(927,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(927,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(928,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(928,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(929,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(929,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(930,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(930,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(931,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(931,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(932,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(932,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(933,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(933,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(934,92): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [21]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(934,54): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(947,81): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+C:\Users\35289\Desktop\GenShinNoGo\源.cpp(947,81): fatal  error C1003: 错误计数超过 100；正在停止编译

@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(GenShinNoGo.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\学习夹\大作业\NoGo1.0\源.cpp(1,9): warning C4068: 未知的杂注“GCC”
+D:\学习夹\大作业\NoGo1.0\源.cpp(426,44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\学习夹\大作业\NoGo1.0\源.cpp(507,22): warning C4101: “end”: 未引用的局部变量
+  GenShinNoGo.vcxproj -> D:\学习夹\大作业\NoGo1.0\x64\Debug\NoGo.exe

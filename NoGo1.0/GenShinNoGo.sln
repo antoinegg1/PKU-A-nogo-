@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoGo", "GenShinNoGo.vcxproj", "{A966B7E0-A368-4139-A320-C50849BF020D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1.vdproj", "{5682D4A5-1274-47D8-9E59-E3B9D09053F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Debug|x64.ActiveCfg = Debug|x64
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Debug|x64.Build.0 = Debug|x64
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Debug|x86.Build.0 = Debug|Win32
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Release|x64.ActiveCfg = Release|x64
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Release|x64.Build.0 = Release|x64
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Release|x86.ActiveCfg = Release|Win32
+		{A966B7E0-A368-4139-A320-C50849BF020D}.Release|x86.Build.0 = Release|Win32
+		{5682D4A5-1274-47D8-9E59-E3B9D09053F0}.Debug|x64.ActiveCfg = Debug
+		{5682D4A5-1274-47D8-9E59-E3B9D09053F0}.Debug|x86.ActiveCfg = Debug
+		{5682D4A5-1274-47D8-9E59-E3B9D09053F0}.Release|x64.ActiveCfg = Release
+		{5682D4A5-1274-47D8-9E59-E3B9D09053F0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F2A278-EB4E-4FDB-8E8A-8950990E926A}
+	EndGlobalSection
+EndGlobal
